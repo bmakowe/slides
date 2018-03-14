@@ -1,0 +1,1 @@
+# Lizenzen in der Softwareentwicklung
