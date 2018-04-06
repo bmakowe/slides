@@ -1,9 +1,9 @@
 # Smart Home - Im Eigenheim und der Mietwohnung
 
 
-## Inhalt
+### Inhalt
 
-### Grundlagen
+#### Grundlagen
 * Was ist ein Smart Home
 * Was macht ein Zuhause "smart"
 * Bedeutung in der Zukunft
@@ -12,7 +12,7 @@
     * Sicherheit
 
 
-### Möglichkeiten im Alt-, Neubau und einer Mietwohnung
+#### Möglichkeiten im Alt-, Neubau und einer Mietwohnung
 * Funkprotokolle
 
     * Übersicht Protokolle
@@ -25,7 +25,7 @@
     * Vorstellung Hardware und Funktion
 
 
-### OpenHAB 2
+#### OpenHAB 2
 * Einführung
 * Architektur (Things, Channels, Items)
 * Regelbasierte Steuerung
@@ -33,6 +33,6 @@
 * Visualisierungen
 
 
-### Weitere Systeme?
+#### Weitere Systeme?
 * Hass.io
 * SmartHome.py
