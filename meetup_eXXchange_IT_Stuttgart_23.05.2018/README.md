@@ -7,19 +7,22 @@
 * Was ist ein Smart Home
 * Was macht ein Zuhause "smart"
 * Bedeutung in der Zukunft
-** Effiziente Nutzung von Ressourcen (Energie, Zeit, Geld)
-** Sicherheit
+
+    * Effiziente Nutzung von Ressourcen (Energie, Zeit, Geld)
+    * Sicherheit
 
 
 ### Möglichkeiten im Alt-, Neubau und einer Mietwohnung
 * Funkprotokolle
-** Vorstellung einzelner Protokolle
-** Vor- und Nachteile
-** Anwendungsgebiete
+
+    * Übersicht Protokolle
+    * Vor- und Nachteile einzelner
+    * Anwendungsgebiete
 
 * Kabelgebunden (KNX)
-** Kleine Einführung
-** Kurze Vorstellung Hardware
+
+    * Kleine Einführung
+    * Vorstellung Hardware und Funktion
 
 
 ### OpenHAB 2
